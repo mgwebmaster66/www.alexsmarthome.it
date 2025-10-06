@@ -1,2 +1,0 @@
-# alexsmarthome-sitemap
-alexsmarthome-sitemap
